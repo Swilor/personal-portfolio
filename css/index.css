@@ -1,0 +1,51 @@
+#icon{
+  height:300px;
+  width:300px;
+  margin: 45px 45px;
+  border: 1px solid red;
+}
+
+main{
+  height:1010px;
+
+  width:800px;
+  margin:0 auto;
+
+  border: 1px solid red;
+}
+.centerthis{
+  position: relative;
+  margin:0 auto;
+}
+h1{
+  font-family: 'Acme', sans-serif;
+}
+.title{
+  margin-left: 20px;
+}
+
+.subtitle{
+  font-family: 'Acme', sans-serif;
+  color:  rgb(203,115,43);
+  margin-left: 100px;
+  padding-left: 20px;
+  border-left: 5px dashed rgb(203,115,43);
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+}
+
+.iconstyle{
+  background-color: rgb(115,190,200);
+
+  margin-top: 40px;
+
+  text-align: center;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  border: 1px solid red;
+  border-radius: 8px;
+}
