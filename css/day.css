@@ -1,6 +1,7 @@
-body{
-  background-color: rgb(244,193,8);
-}
-#demo,#time{
-color:rgb(37,68,43);
+.subtitle{
+  font-family: 'Acme', sans-serif;
+  margin-left: 100px;
+  padding-left: 20px;
+  border-left: 5px dashed rgb(203,115,43);
+  color:rgb(203,115,43);
 }

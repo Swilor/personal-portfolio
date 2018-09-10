@@ -25,13 +25,7 @@ h1{
 .bot{
   padding-bottom: 100px;
 }
-.subtitle{
-  font-family: 'Acme', sans-serif;
-  color:  rgb(203,115,43);
-  margin-left: 100px;
-  padding-left: 20px;
-  border-left: 5px dashed rgb(203,115,43);
-}
+
 h4{
   font-family: 'Roboto', sans-serif;
   position: relative;
@@ -52,7 +46,6 @@ h4{
 
   margin-right: auto;
 
-  border: 1px solid red;
   border-radius: 8px;
   box-shadow: 10px 10px 5px grey;
 }
